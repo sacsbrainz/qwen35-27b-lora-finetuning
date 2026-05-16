@@ -1,1 +1,1 @@
-# qwen35-27b-lora-finetuning
+# qwen3.5-27b-lora-finetuning
